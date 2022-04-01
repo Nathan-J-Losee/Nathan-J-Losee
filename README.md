@@ -1,6 +1,9 @@
 -Hi, I’m Nathan J. Losee
--I’m interested in Data Science and Analysis.
+
+-I’m interested in Data Science and Analysis
+
 -I’m currently learning Data and Statistical Analysis with Big and Small Data.
+
 -How to reach me: nathan.j.losee@gmail.com or message me on LinkedIn: https://www.linkedin.com/in/nathan-j-losee/
 
 <!---
